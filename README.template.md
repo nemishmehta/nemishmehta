@@ -7,7 +7,13 @@
 ![Years Badge](https://badges.pufler.dev/years/nemishmehta)
 ![Repos Badge](https://badges.pufler.dev/repos/nemishmehta)
 
-![Nemish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nemishmehta&show_icons=true&theme=radical&count_private=true)
+<a href="https://github.com/nemishmehta">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=nemishmehta&show_icons=true&theme=radical&count_private=true&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/nemishmehta">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemishmehta&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
+</a>
 
 
 
@@ -26,14 +32,6 @@
 <a href="https://github.com/nemishmehta/3d-houses">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=nemishmehta&repo=3d-houses&show_owner=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
-
-
-[![Restaurant Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=nemishmehta&repo=restaurant_dashboard&show_owner=true)](https://github.com/nemishmehta/restaurant_dashboard)
-[![Price Prediction API](https://github-readme-stats.vercel.app/api/pin/?username=nemishmehta&repo=price_prediction_api&show_owner=true)](https://github.com/nemishmehta/price_prediction_api)
-[![3D Houses](https://github-readme-stats.vercel.app/api/pin/?username=nemishmehta&repo=3d-houses&show_owner=true)](https://github.com/nemishmehta/3d-houses)
-
-
 
 ## Get in Touch
 
