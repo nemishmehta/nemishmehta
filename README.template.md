@@ -1,1 +1,1 @@
-![](./assets/neurons.jpg)
+![Nemish's GitHub Banner](./assets/neurons.jpg)
