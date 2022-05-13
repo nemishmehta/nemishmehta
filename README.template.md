@@ -16,7 +16,6 @@
 </a>
 
 
-
 ## Pinned Repositories
 
 <a href="https://github.com/nemishmehta/restaurant_dashboard">
@@ -32,6 +31,10 @@
 <a href="https://github.com/nemishmehta/3d-houses">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=nemishmehta&repo=3d-houses&show_owner=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+
+## Skills
+
+![Nemish's Skills](https://skillicons.dev/icons?i=py,git,docker,pytorch,flask,heroku,vscode,linux&perline=5)
 
 ## Get in Touch
 
