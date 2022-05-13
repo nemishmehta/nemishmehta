@@ -34,7 +34,7 @@
 
 ## Skills
 
-![Nemish's Skills](https://skillicons.dev/icons?i=py,git,docker,pytorch,flask,heroku,vscode,linux&perline=5)
+![Nemish's Skills](https://skillicons.dev/icons?i=py,git,docker,pytorch,flask,heroku,vscode,linux)
 
 ## Get in Touch
 
