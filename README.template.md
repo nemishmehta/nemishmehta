@@ -2,4 +2,4 @@
 
 #### Interesting Stats
 
-![Visits Badge](https://badges.pufler.dev/visits/{nemishmehta}/{nemishmehta})
+![[Visits Badge](https://badges.pufler.dev/visits/{nemishmehta}/{nemishmehta})](https://www.linkedin.com/in/nemishsmehta/)
