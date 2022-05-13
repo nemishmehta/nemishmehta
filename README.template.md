@@ -2,6 +2,6 @@
 
 #### Interesting Stats
 
-![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)
-
-![Visits Badge](https://badges.pufler.dev/visits/nemishmehta/price_prediction_api)
+![Visits Badge](https://badges.pufler.dev/visits/nemishmehta/nemishmehta)
+![Years Badge](https://badges.pufler.dev/years/nemishmehta)
+![Repos Badge](https://badges.pufler.dev/repos/nemishmehta)
