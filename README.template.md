@@ -1,5 +1,4 @@
-![](./assets/Nemish_GitHub_Banner.gif)
-
+![](./assets/neurons.jpg)
 
 ## GitHub Stats
 
