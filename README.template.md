@@ -1,5 +1,7 @@
 ![](./assets/neurons.jpg)
 
+![](./assets/Nemish_GitHub_Banner.gif)
+
 ## GitHub Stats
 
 ![Visits Badge](https://badges.pufler.dev/visits/nemishmehta/nemishmehta)
