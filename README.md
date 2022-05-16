@@ -1,4 +1,4 @@
-![](./assets/Nemish_GitHub_Banner.gif)
+![](https://github.com/nemishmehta/nemishmehta/blob/main/assets/Nemish_GitHub_Banner.gif)
 
 ## GitHub Stats
 
