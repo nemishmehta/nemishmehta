@@ -1,5 +1,6 @@
 
-<img src="./assets/Nemish_GitHub_Banner.gif">
+
+![Nemish_GitHub_Banner](https://user-images.githubusercontent.com/42382651/168607902-9ca92c80-5bd5-4a2d-a54b-937c721a48f2.gif)
 
 ## GitHub Stats
 
