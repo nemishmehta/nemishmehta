@@ -1,4 +1,4 @@
-<img src="./assets/Nemish_GitHub_Banner.gif">
+![](./assets/Nemish_GitHub_Banner.gif)
 
 
 ## GitHub Stats
