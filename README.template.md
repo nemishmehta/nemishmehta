@@ -1,4 +1,4 @@
-![Nemish's GitHub Banner](./assets/neurons.jpg)
+![Nemish's GitHub Banner](./assets/Nemish_GitHub_Banner.gif)
 
 
 ## GitHub Stats
