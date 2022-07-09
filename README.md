@@ -4,11 +4,9 @@
 
 ## GitHub Stats
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=nemishmehta.nemishmehta)
-{::comment}
-![Visits Badge](https://badges.pufler.dev/visits/nemishmehta/nemishmehta)
-![Years Badge](https://badges.pufler.dev/years/nemishmehta)
-{:/comment}
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=nemishmehta.nemishmehta&left_text=Visits)
+<!---![Visits Badge](https://badges.pufler.dev/visits/nemishmehta/nemishmehta)
+![Years Badge](https://badges.pufler.dev/years/nemishmehta)--->
 ![Repos Badge](https://badges.pufler.dev/repos/nemishmehta)
 
 <a href="https://github.com/nemishmehta">
