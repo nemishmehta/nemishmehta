@@ -4,8 +4,12 @@
 
 ## GitHub Stats
 
-![Visits Badge](https://badges.pufler.dev/visits/nemishmehta/nemishmehta)
-![Years Badge](https://badges.pufler.dev/years/nemishmehta)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=nemishmehta.nemishmehta)
+
+[//]: # ![Visits Badge](https://badges.pufler.dev/visits/nemishmehta/nemishmehta)
+
+[//]: # ![Years Badge](https://badges.pufler.dev/years/nemishmehta)
+
 ![Repos Badge](https://badges.pufler.dev/repos/nemishmehta)
 
 <a href="https://github.com/nemishmehta">
