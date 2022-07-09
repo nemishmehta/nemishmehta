@@ -6,9 +6,9 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=nemishmehta.nemishmehta)
 
-[//]: # ![Visits Badge](https://badges.pufler.dev/visits/nemishmehta/nemishmehta)
+{::comment}![Visits Badge](https://badges.pufler.dev/visits/nemishmehta/nemishmehta){:/comment}
 
-[//]: # ![Years Badge](https://badges.pufler.dev/years/nemishmehta)
+{::comment}![Years Badge](https://badges.pufler.dev/years/nemishmehta){:/comment}
 
 ![Repos Badge](https://badges.pufler.dev/repos/nemishmehta)
 
