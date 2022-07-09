@@ -5,9 +5,9 @@
 ## GitHub Stats
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=nemishmehta.nemishmehta&left_text=Visits)
+![Repos Badge](https://badges.pufler.dev/repos/nemishmehta)
 <!---![Visits Badge](https://badges.pufler.dev/visits/nemishmehta/nemishmehta)
 ![Years Badge](https://badges.pufler.dev/years/nemishmehta)--->
-![Repos Badge](https://badges.pufler.dev/repos/nemishmehta)
 
 <a href="https://github.com/nemishmehta">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=nemishmehta&show_icons=true&theme=radical&count_private=true&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
